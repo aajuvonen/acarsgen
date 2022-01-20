@@ -2,7 +2,7 @@
 
 This repository contains Octave/MatLab scripts to generate Plain-Old-ACARS (PoA) waveform IQ files with arbitrary message payloads.
 
-PoA is simply a Minimum Shift Keyed evenlope wrapped into classic Amplitude Modulation for transmission with generic aviation voice radios. The MSK contains two symbols at 1200&nbps;Hz and 2400&nbps;Hz respectively, and so delivers 2400&nbsp;bps. The AM wrapping is nothing to write home about, it's just classic double sideband AM with a modulation index of 100&nbsp;%.
+PoA is simply a Minimum Shift Keyed envelope wrapped into classic Amplitude Modulation for transmission with generic aviation voice radios. The MSK contains two symbols at 1200&nbps;Hz and 2400&nbps;Hz respectively, and so delivers 2400&nbsp;bps. The AM wrapping is nothing to write home about, it's just classic double sideband AM with a modulation index of 100&nbsp;%.
 
 
 # How to use?
